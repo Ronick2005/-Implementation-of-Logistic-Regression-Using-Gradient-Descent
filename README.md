@@ -126,6 +126,8 @@ np.mean(predict(res.x,X)==y)
 
 ![](Exp5_7.png)
 
+![](Exp5_10.png)
+
 ![](Exp5_8.png)
 
 ![](Exp5_9.png)
